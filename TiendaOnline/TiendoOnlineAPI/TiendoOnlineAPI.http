@@ -1,0 +1,6 @@
+@TiendoOnlineAPI_HostAddress = http://localhost:5066
+
+GET {{TiendoOnlineAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
